@@ -35,8 +35,10 @@ span {
     background-color: darkturquoise;
     color: floralwhite;
 }
-.pic {
+.recipe-img {
     border-radius: 15px;
+    width: 40%;
+    display: inline-block;
 }
 ol , ul {
     line-height: 25px;
