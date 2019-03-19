@@ -37,8 +37,16 @@ span {
 }
 .recipe-img {
     border-radius: 15px;
-    width: 40%;
+    width: 49%;
     display: inline-block;
+}
+.description {
+    display: inline-block;
+    width: 50%;
+}
+#center {
+    position: relative;
+    bottom: 100px;
 }
 ol , ul {
     line-height: 25px;
