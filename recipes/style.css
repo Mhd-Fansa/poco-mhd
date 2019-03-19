@@ -1,0 +1,43 @@
+body {
+    background-color: whitesmoke;
+}
+.headerpic {
+    width: 800px;
+}
+.siteName {
+    margin: 30px 20px auto;
+    position: absolute;
+    color: wheat;
+    font-size: xx-large;
+    font-family: fantasy;
+}
+h1 {
+    background-color: cornsilk;
+    color: burlywood;
+    font-family: 'Ubuntu', sans-serif;
+    text-align: center;
+    text-shadow: 4px 4px 5px black;
+}
+.container {
+    margin: 0 auto;
+    max-width: 800px;
+}
+h2 {
+    font-family: 'Lora', serif;
+    color: coral;
+    background-color: cornsilk;
+    text-align: center;
+    font-size: 20px;
+    text-shadow: 3px 3px 5px black;
+}
+span {
+    font-family: 'PT Mono', monospace;
+    background-color: darkturquoise;
+    color: floralwhite;
+}
+.pic {
+    border-radius: 15px;
+}
+ol , ul {
+    line-height: 25px;
+}
